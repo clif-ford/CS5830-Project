@@ -1,0 +1,12 @@
+fastapi==0.94.1
+uvicorn==0.29.0
+tensorflow==2.16.1
+keras
+numpy==1.24.4
+Pillow==9.4.0
+psutil==5.9.7
+prometheus-fastapi-instrumentator==6.1.0
+prometheus-client==0.16.0
+h5py
+python-multipart
+scikit-learn
